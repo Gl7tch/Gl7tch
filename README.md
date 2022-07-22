@@ -20,4 +20,4 @@
   <img width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gl7tch&layout=compact&langs_count=7&theme=merko'/>
 </div>
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/106415627/180503320-f51fc455-da22-49bd-9a4f-08d812f256be.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/106415627/180504559-9973e30d-d66a-4dba-b4ba-9bfd91cf095f.gif)
