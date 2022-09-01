@@ -1,6 +1,6 @@
 <div align='left'>
     <a href="https://github.com/Gl7tch">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hi.+I+do´t+know+what+I+doing,;I+just+a+beginner+progammer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hi.+I+don´t+know+what+I+doing,;I+just+a+beginner+progammer">
 </div>
   
 ```js
