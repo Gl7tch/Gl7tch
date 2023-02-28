@@ -9,7 +9,7 @@
             Skills: "Back-end Developer",
         Main_Langs: "Python",
       Casual_Langs: "Javascript", 
-          Study_On: "PyCharm, Django",
+          Study_On: "PyCharm, VSCode, Django",
     };
 
 ```
