@@ -6,7 +6,7 @@
 ```js
    //I used Python ,because I´m a snake.
    const Me = {
-            Skills: "Back-end Developer",
+            Skills: "Front-end Developer",
         Main_Langs: "Python",
       Casual_Langs: "Javascript", 
           Study_On: "PyCharm, VSCode, Django",
