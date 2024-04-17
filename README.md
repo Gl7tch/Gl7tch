@@ -9,7 +9,7 @@
             Skills: "Front-end Developer",
         Main_Langs: "Python",
       Casual_Langs: "Javascript", 
-          Study_On: "PyCharm, VSCode, Django",
+          Study_On: "MySQL, Java, Python",
     };
 
 ```
