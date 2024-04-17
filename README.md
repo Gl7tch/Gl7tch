@@ -16,8 +16,5 @@
 
 <div align='left'>
   <a href='https://github.com/Gl7tch'>
-  <img width='45%' src='https://github-readme-stats.vercel.app/api?username=Gl7tch&show_icons=true&theme=merko&include_all_commits=true&count_private=true'/>
   <img width='55%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gl7tch&layout=compact&langs_count=7&theme=merko'/>
 </div>
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/106415627/180504559-9973e30d-d66a-4dba-b4ba-9bfd91cf095f.gif)
