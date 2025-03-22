@@ -16,5 +16,5 @@
 
 <div align='left'>
   <a href='https://github.com/Gl7tch'>
-  <img width='55%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gl7tch&layout=compact&langs_count=7&theme=merko'/>
-</div>
+  <img width='55%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gl7tch&layout=compact&langs_count=7&theme=transparent'/>
+  </div>
