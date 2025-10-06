@@ -1,20 +1,26 @@
-<div align='left'>
-    <a href="https://github.com/Gl7tch">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%200cc00&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hi.+I+don´t+know+what+I+doing,;I+just+a+beginner+progammer">
-</div>
-  
+
 ```js
-   //I used Python ,because I´m a snake.
-   const Me = {
-            Skills: "Front-end Developer",
-        Main_Langs: "Python",
-      Casual_Langs: "Javascript", 
-          Study_On: "MySQL, Java, Python",
+   // while (syntax.error) { raskolnikov.mentalBreakdown++; }
+
+    const Dev = {
+        name: "Laysa M",
+        role: "CS Student | Developer in Training",
+        status: "Seeking internship/junior positions",
+        
+        techStack: {
+            languages: ["Python", "JavaScript", "C#", "Kotlin"],
+            web: ["HTML5", "CSS3", "React"],
+            backend: ["Node.js", "REST APIs"],
+            databases: ["MySQL", "PostgreSQL"],
+            tools: ["Git", "VS Code", "Figma", "Android Studio"]
+        },
+        
+        learning: ["React", "Node.js", "Data Science", "SQL"],
+        interests: ["Web Dev", "Data Science", "UI/UX", "DevOps"]
     };
 
 ```
 
-<div align='left'>
-  <a href='https://github.com/Gl7tch'>
-  <img width='55%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gl7tch&layout=compact&langs_count=7&theme=transparent'/>
-  </div>
+<div align="left">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gl7tch&layout=compact&theme=transparent&hide_border=true"/>
+</div>
